@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome/","tags":["A","gardenEntry"],"created":"2024-05-15T17:49:21.874+08:00"}
+{"dg-publish":true,"permalink":"/Welcome/","tags":["A","gardenEntry","gardenEntry"],"created":"2024-05-15T17:49:21.874+08:00"}
 ---
 
 This is your new *vault*.
